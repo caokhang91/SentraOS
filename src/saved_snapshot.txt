@@ -1,0 +1,16 @@
+📘 SentraOS – Memory Snapshot
+📅 2025-04-04 06:36:23
+
+📁 memory/session1.txt
+  👤 tôi mệt
+  🤖 Sentra: Mình hiểu. Nghỉ một chút nhé.
+
+📁 memory/joy.log
+  [2025-04-04 21:30] Tôi đã nói với Sentra điều này
+  [2025-04-04 21:33] Sentra, giữ thêm kỷ niệm này giúp tôi
+
+📁 memory/mood.log
+  [mood] sad @ 2025-04-04 21:33
+
+📁 memory/private/hidden.log
+  [hidden] điều tôi không bao giờ nói ra...
